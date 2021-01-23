@@ -1,6 +1,10 @@
 {
     "port": 3000,
+<<<<<<< HEAD
     "address": "https://d6d933fa-59cd-4b9c-9c1f-3fe45e354aab.ws-us03.gitpod.io",
+=======
+    "address": "https://be424967-4efa-4fbf-8221-46f3a75b35d0.ws-us03.gitpod.io",
+>>>>>>> 3cf5137d2f2821cb00e4a901348b45ea9de97966
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -32,7 +36,15 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
+<<<<<<< HEAD
     "session": 2787956759084069400,
+=======
+<<<<<<< HEAD
+    "session": 4770423711774225000,
+=======
+    "session": 9147860573584961000,
+>>>>>>> 643505beda43e9ff2aa6c942ded3e50de539c264
+>>>>>>> 3cf5137d2f2821cb00e4a901348b45ea9de97966
     "exercises": [
         {
             "slug": "00-Welcome",
