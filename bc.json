@@ -32,7 +32,11 @@
     "difficulty": "easy",
     "video-solutions": true,
     "graded": true,
+<<<<<<< HEAD
     "session": 4770423711774225000,
+=======
+    "session": 9147860573584961000,
+>>>>>>> 643505beda43e9ff2aa6c942ded3e50de539c264
     "exercises": [
         {
             "slug": "00-Welcome",
