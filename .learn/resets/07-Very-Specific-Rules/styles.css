@@ -13,13 +13,3 @@ ul li,
 ol li {
 	color: green;
 }
-#red li {
-	color: red;
-}
-ol li:nth-child(2) {
-	background-color: green;
-}
-
-tr:nth-child(odd) {
-	background: yellow;
-}
